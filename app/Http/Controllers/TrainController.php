@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Train;
 
-class HomeController extends Controller
+class TrainController extends Controller
 {
     public function index(){
 
