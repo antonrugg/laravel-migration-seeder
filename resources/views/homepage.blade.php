@@ -9,6 +9,7 @@
 <body>
     @foreach($trains as $train)
     <p>{{$train['Azienda']}}</p>
+    <p>blablabla</p>
     @endforeach 
 </body>
 </html>
