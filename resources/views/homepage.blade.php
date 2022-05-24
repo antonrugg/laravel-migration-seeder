@@ -10,6 +10,7 @@
     @foreach($trains as $train)
     <p>{{$train['Azienda']}}</p>
     <p>blablabla</p>
+    <p>trying git test branching</p>
     @endforeach 
 </body>
 </html>
